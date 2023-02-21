@@ -10,9 +10,9 @@ RUN pip3 install -r requirements.txt
 
 COPY . .
 
-ENV TOKEN "5491017548:AAGkPfGEhk6FLf77YJMbgxuitlG1tjkIgzo"
+ENV TOKEN "YOUR TOKEN"
 
-ENV PASSWORD ";f,f"
+ENV PASSWORD "YOUR PASSWORD"
 
 ENV PORT 4200
 
