@@ -1,0 +1,8 @@
+2023-02-21 17:46:21,455 - root - INFO - Start bot
+2023-02-21 17:46:21,992 - aiogram - INFO - Bot: ITVVSU_PROF [@itvvsu_career_bot]
+2023-02-21 17:46:21,993 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2023-02-21 17:46:25,524 - root - INFO - user info send
+2023-02-21 17:46:25,772 - root - INFO - telegram info send
+2023-02-21 17:46:29,850 - root - INFO -  incorrect input password: 
+2023-02-21 17:46:33,016 - aiogram.dispatcher.dispatcher - INFO - Stop polling...
+2023-02-21 17:46:33,017 - aiogram - WARNING - Goodbye!
